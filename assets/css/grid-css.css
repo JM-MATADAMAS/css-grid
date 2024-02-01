@@ -1,0 +1,6 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 100px 100px 100px; /* Tres columnas de 100px cada una */
+    grid-template-rows: 200px 200px; /* Dos filas de 200px cada una */
+}
+
